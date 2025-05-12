@@ -22,6 +22,6 @@
 ### 📌 Projetos em Destaque
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-gothouts-projects.vercel.app/pin/?username=gothout&repo=Synapse" alt="Synapse" />
-  <img src="https://github-readme-stats-git-master-gothouts-projects.vercel.app/pin/?username=gothout&repo=DLS" alt="DLS" />
+  <img src="https://github-readme-stats-git-master-gothouts-projects.vercel.app/pin/?username=gothout&repo=provisionador-dhcp" alt="provisionador-dhcp" />
+  <img src="https://github-readme-stats-git-master-gothouts-projects.vercel.app/pin/?username=gothout&repo=Sistema-biblioteca" alt="Sistema biblioteca" />
 </p>
