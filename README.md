@@ -1,7 +1,7 @@
 ### 📊 Minhas estatísticas GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gothout/gothout/main/estatisticas.svg" alt="Estatísticas do Lucas" />
+  <img src="[https://raw.githubusercontent.com/gothout/gothout/refs/heads/main/estatisticas.svg](https://raw.githubusercontent.com/gothout/gothout/refs/heads/main/estatisticas.svg)" alt="Estatísticas do Lucas" />
 </p>
 
 ---
