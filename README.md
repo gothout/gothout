@@ -36,19 +36,6 @@ Sou um desenvolvedor focado no ecossistema **Cloud Native**. Atualmente, estou m
 
 ---
 
-### 📌 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/gothout/csa-api">
-    <img src="https://github-readme-stats-kww3.vercel.app/api/pin/?username=gothout&repo=csa-api&theme=radical" />
-  </a>
-  <a href="https://github.com/gothout/wonit-agent-utech">
-    <img src="https://github-readme-stats-kww3.vercel.app/api/pin/?username=gothout&repo=wonit-agent-utech&theme=radical" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Construindo infraestruturas resilientes e escaláveis no mundo Cloud Native."</i>
 </p>
