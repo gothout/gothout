@@ -1,10 +1,10 @@
 # Olá, eu sou o Lucas Daniel Chaves! 👋
 
-Sou um desenvolvedor focado no ecossistema **Cloud Native**. Atualmente, dedico meus estudos ao aprofundamento em **Go (Golang)** aplicando arquitetura **DDD (Domain-Driven Design)** e especialização em orquestração com **Kubernetes**.
+Sou um desenvolvedor focado no ecossistema **Cloud Native**. Atualmente, estou me aprofundando em **Go (Golang)** com foco em **DDD (Domain-Driven Design)**, além de especialização em orquestração com **Kubernetes**.
 
 ---
 
-### 📊 Estatísticas Gerais (Privado + Público)
+### 📊 Estatísticas de Contribuição (Privado + Público)
 
 <p align="center">
   <img src="https://github-readme-stats-kww3.vercel.app/api?username=gothout&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" />
@@ -12,7 +12,7 @@ Sou um desenvolvedor focado no ecossistema **Cloud Native**. Atualmente, dedico 
 
 ---
 
-### 🔍 Tecnologias em Foco
+### 🔍 Tecnologias & Linguagens
 
 <p align="center">
   <img src="https://github-readme-stats-kww3.vercel.app/api/top-langs/?username=gothout&layout=compact&theme=radical" alt="Linguagens mais usadas" />
@@ -28,14 +28,22 @@ Sou um desenvolvedor focado no ecossistema **Cloud Native**. Atualmente, dedico 
 
 ---
 
+### 📈 Atividade Recente (Automático)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gothout&theme=react-dark" width="100%" />
+</p>
+
+---
+
 ### 📌 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/gothout/synapse">
-    <img src="https://github-readme-stats-kww3.vercel.app/api/pin/?username=gothout&repo=synapse&theme=radical" />
-  </a>
   <a href="https://github.com/gothout/csa-api">
     <img src="https://github-readme-stats-kww3.vercel.app/api/pin/?username=gothout&repo=csa-api&theme=radical" />
+  </a>
+  <a href="https://github.com/gothout/wonit-agent-utech">
+    <img src="https://github-readme-stats-kww3.vercel.app/api/pin/?username=gothout&repo=wonit-agent-utech&theme=radical" />
   </a>
 </p>
 
